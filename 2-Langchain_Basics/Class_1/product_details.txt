@@ -1,0 +1,33 @@
+Item number: 10023
+Category: In-Ear Headphones
+Description: JBL Wave 200TWS, JBL Deep Bass Sound, 20 Hours of Combined Playback, Either Ear, or Both, Calls and Voice Assistant with Touch Control, Comfort-fit, Black
+Price: $99.99
+Additional Infomation: Style: True Wireless Stick
+                       Colour: BLACK
+                       Brand	JBL
+                       Colour	BLACK
+                       Ear placement	In Ear
+                       Form factor	In Ear
+                       Noise control	Active Noise Cancellation
+
+Item number: 10024
+Category: Over-Ear Headphones
+Description: soundcore by Anker Q20i Hybrid Active Noise Cancelling Headphones, Wireless Over-Ear Bluetooth, 40H Long ANC Playtime, Hi-Res Audio, Big Bass, Customize via an App, Transparency Mode (Black)
+Price: $68.79
+Additional Infomation: Style: 
+                       Brand	Soundcore
+                       Colour	Black
+                       Form factor	Over Ear
+                       Noise control	Hybrid Noise Cancellation
+                       Headphones jack	Usb
+
+Item number: 10025
+Category: In-Ear Headphones
+Description: JBL Tune 110, JBL Pure Bass Sound, 1-Button Remote with Microphone, Tangle-Free Flat Cable, Red
+Price: $17.95
+Additional Infomation: Style: Wired
+                       Brand	JBL
+                       Colour	Red
+                       Ear placement	In Ear
+                       Form factor	In Ear
+                       Noise control	Sound Isolation
