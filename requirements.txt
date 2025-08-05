@@ -19,3 +19,4 @@ langchain-pinecone
 pdfplumber
 langgraph
 sentence-transformers
+chromadb
