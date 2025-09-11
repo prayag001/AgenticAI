@@ -20,3 +20,4 @@ pdfplumber
 langgraph
 sentence-transformers
 chromadb
+duckduckgo_search
